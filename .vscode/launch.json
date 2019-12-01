@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Data",
+            "request": "launch",
+            "mainClass": "app.Data",
+            "projectName": "Java8-1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Java8-1"
+        }
+    ]
+}
